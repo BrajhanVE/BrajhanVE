@@ -13,7 +13,7 @@ Desarrollador de software enfocado en la construcción de sistemas empresariales
 
 He desarrollado un conjunto de sistemas integrados utilizados en entorno empresarial real:
 
-### 🔹 CPS (Corporate Processing System)
+### 🔹 CPS
 
 Sistema principal de operaciones con módulos de logística, producción, finanzas, ingeniería y calidad.
 
