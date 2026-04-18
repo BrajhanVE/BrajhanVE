@@ -31,6 +31,6 @@ C# | .NET | WPF | WinUI | APIs REST | Entity Framework | SQL | Postgres | MySql 
 
 ## 📫 Contacto
 
-* LinkedIn: (tu link)
+* LinkedIn: https://www.linkedin.com/in/brajhan-rocca-9b1184169
 * GitHub: https://github.com/BrajhanVE
 
